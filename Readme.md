@@ -37,6 +37,9 @@ This project is designed to implement a GPS-based navigation system using the TM
 4. The system should calculate the distance between the starting point and the end point.
 5. You should ensure that there is no big difference/deviation (error margin should be <= 5%) between your calculated distance and the one shown by Google Maps.
 
+## Project video
+https://youtu.be/G3c_CFL4o9Y
+
 ## Authors
 
 - Andrew Gamal Todary 2000042
